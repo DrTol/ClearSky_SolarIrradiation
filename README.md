@@ -20,5 +20,6 @@ Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via follow
 - Solar Angles
   - Sun's altitude angle (β | beta in °)
   - Solar azimuth angle (Φ | phi in °)
+- Equation of Time [minutes] as dependent to the day in a year
 - 
 
