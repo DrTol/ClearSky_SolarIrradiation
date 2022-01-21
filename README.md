@@ -56,7 +56,7 @@ We would like to acknowledge all of the open-source minds in general for their w
 
 ## References
 1. ASHRAE Handbook - Fundamentals (SI Edition). 2009. ISBN: 978-1-933742-55-7. ISSN: 1523-282. 
-2. http://ashrae-meteo.info/v2.0/
+2. ASHRAE CLIMATIC DESIGN CONDITIONS 2009/2013/2017. http://ashrae-meteo.info/v2.0/
 3. Spindler, Henry C. | Residential Building Energy Analysis: Development and Uncertainty Assessment of a Simplified Model, M.Sc. Thesis, Massachusetts Institute of Technology
 4. Inao Charlton, Chapter 4 | Solar Radiation in HVAC, https://www.slideshare.net/CharltonInao/chap4-solar-radiation-in-hvac
 5. Oh, John Kie-Whan, An Effective Algorithm for Transmitted Solar Radiation Calculation through Window Glazing on a Clear Day, KIEAE Journal, 35-45
