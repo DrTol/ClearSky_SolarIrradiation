@@ -7,7 +7,7 @@ Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via follow
 - [Acknowledgement](README.md#Acknowledgement)
 - [How2Cite](README.md#How2Cite)
 - [References](README.md#References)
-- 
+
 ## How2Use
 The idea here is to calculate the solar heat gain, as dependent to the time, on arbitrary surfaces (i.e. windows) based on the location of the case area. 
 
