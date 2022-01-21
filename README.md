@@ -1,5 +1,6 @@
 # Clear-Sky Solar Irradiation
 Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via following the Example 1, 3, and 4 in Chapter 14 of ASHRAE Handbook - Fundamentals (SI Edition). 
+The idea here is to calculate the solar heat gain, as dependent to the time, on arbitrary surfaces (e.g. windows) based on the location of the case area. 
 
 ## Table of Contents
 - [How2Use](README.md#how2use)
@@ -9,7 +10,7 @@ Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via follow
 - [References](README.md#References)
 
 ## How2Use
-The idea here is to calculate the solar heat gain, as dependent to the time, on arbitrary surfaces (i.e. windows) based on the location of the case area. 
+Please simply run [SolarHeatGain_ASHRAE.py](https://github.com/DrTol/ClearSky_SolarIrradiation/blob/main/SolarHeatGain_ASHRAE.py).
 
 #### Inputs
 - Longitude & Latitude 
