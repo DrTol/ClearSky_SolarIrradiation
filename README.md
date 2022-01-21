@@ -53,7 +53,7 @@ Praise and thank to the Almighty Allah (SWT). In memory of my mother Esma Tol an
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite
-
+Tol, Hİ. ClearSky_SolarIrradiation. DOI: 10.5281/zenodo.5886143. GitHub Repository 2022; https://github.com/DrTol/ClearSky_SolarIrradiation
 
 ## References
 1. ASHRAE Handbook - Fundamentals (SI Edition). 2009. ISBN: 978-1-933742-55-7. ISSN: 1523-282. 
