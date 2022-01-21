@@ -11,7 +11,7 @@ Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via follow
 ## How2Use
 The idea here is to calculate the solar heat gain, as dependent to the time, on arbitrary surfaces (i.e. windows) based on the location of the case area. 
 
-### Inputs
+#### Inputs
 - Longitude & Latitude 
 - Day Light Saving 
 - Time Zone 
@@ -20,7 +20,7 @@ The idea here is to calculate the solar heat gain, as dependent to the time, on 
 - Tilt Angle of Surface (Σ  | Sigma in °)
 - Surface Azimuth (Surface Orientation - Ψ | psi in °)
 
-### Considerations
+#### Considerations
 - Calculation of local standard time and apparent solar time
 - Solar Angles
   - Sun's altitude angle (β | beta in °)
