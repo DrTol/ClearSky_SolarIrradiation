@@ -11,9 +11,14 @@ Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via follow
 - Day Light Saving 
 - Time Zone 
 - Local Standard Time Meridian
+- Date & Time
 - Tilt Angle of Surface
 - Surface Azimuth (Surface Orientation) 
 
 ### Considerations
-
+- Calculation of local standard time and apparent solar time
+- Solar Angles
+  - Sun's altitude angle (β | beta in °)
+  - Solar azimuth angle (Φ | phi in °)
+- 
 
