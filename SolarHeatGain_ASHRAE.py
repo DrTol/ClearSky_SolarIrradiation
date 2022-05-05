@@ -153,7 +153,30 @@ if beta>0:
     psi=0
     
     # surface-solar azimuth angle (γ | gamma in °)
-    gamma=phi-psi
+    # see: Ioan Sarbu etc. Solar Heating and Cooling Systems - Fundamentals, Experiments and Applications.
+    if psi < 0: 
+            
+            if AST.hour < 12:
+            
+                gamma=phi-psi
+                
+            else:
+                
+                gamma=phi+psi
+                
+        elif psi>0:
+            
+            if AST.hour < 12:
+            
+                gamma=phi+psi
+                
+            else:
+                
+                gamma=phi-psi
+            
+        else:
+            
+            gamma=phi-psi
     
     if gamma>90 or gamma<-90:
         print('Surface is in shade')
