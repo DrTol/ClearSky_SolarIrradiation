@@ -2,6 +2,8 @@
 Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via following the Example 1, 3, and 4 in Chapter 14 of ASHRAE Handbook - Fundamentals (SI Edition). 
 The idea here is to calculate the solar heat gain, as dependent to the time, on arbitrary surfaces (e.g. windows) based on the location of the case area. 
 
+Details given in: Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038
+
 ## Table of Contents
 - [How2Use](README.md#how2use)
 - [License](README.md#License)
@@ -53,6 +55,8 @@ Praise and thank to the Almighty Allah (SWT). In memory of my mother Esma Tol an
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our tools developed.
 
 ## How2Cite
+Tol Hİ, Madessa HB. Development of a white-box dynamic building thermal model integrated with a heating system. Journal of Building Engineering 2023 (68). https://doi.org/10.1016/j.jobe.2023.106038
+
 Tol, Hİ. ClearSky_SolarIrradiation. DOI: 10.5281/zenodo.5886143. GitHub Repository 2022; https://github.com/DrTol/ClearSky_SolarIrradiation
 
 ## References
