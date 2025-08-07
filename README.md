@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # Clear-Sky Solar Irradiation
 Calculation procedure for Clear-Sky Beam and Diffuse Solar Irradiance via following the Example 1, 3, and 4 in Chapter 14 of ASHRAE Handbook - Fundamentals (SI Edition). 
 The idea here is to calculate the solar heat gain, as dependent to the time, on arbitrary surfaces (e.g. windows) based on the location of the case area. 
